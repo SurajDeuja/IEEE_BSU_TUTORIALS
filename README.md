@@ -12,4 +12,5 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 ## Installing autoconf, automake and libtool
 
 $ brew install autoconf automake libtool
+
 $ brew link autoconf automake libtool
