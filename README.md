@@ -8,3 +8,8 @@ make some of the concepts clear.
 ## Installing Homebrew for OSX users
 
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+## Installing autoconf, automake and libtool
+
+$ brew install autoconf automake libtool
+$ brew link autoconf automake libtool
